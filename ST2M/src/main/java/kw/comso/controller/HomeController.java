@@ -1,4 +1,4 @@
-package kw.comso.st2m;
+package kw.comso.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
